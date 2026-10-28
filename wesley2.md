@@ -4,3 +4,6 @@
 
 ## Second Quote
 "If I'm to choose between one evil and another, I'd rather not choose at all." — Geralt van Rivia (The Witcher)
+
+## Third Quote
+"Sic parvis magna." — Nathan Drake,inscribed on his ring. Meaning "Greatness from small beginnings" (Uncharted)
